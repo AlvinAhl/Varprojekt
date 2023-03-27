@@ -8,3 +8,9 @@ Jag har skapat en moodboard, hjälpt lucas att dela filer mellan oss och jag har
 
 ## Vecka 11
 Jag har ändrat moodboarden och lagt in den och våra wireframes på vårat gemensamma github projekt. Jag och Lucas har också designat en logga. 
+
+## Vecka 12
+Sjuk
+
+## Vecka 13
+Idag har vi börjat koda sidan. Adam har fixat en navbar och jag och Lucas har hittat bilder och fixat brödtexten till sidan.
