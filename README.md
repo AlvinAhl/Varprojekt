@@ -14,3 +14,4 @@ Sjuk
 
 ## Vecka 13
 Idag har vi börjat koda sidan. Adam har fixat en navbar och jag och Lucas har hittat bilder och fixat brödtexten till sidan.
+Idag har vi fortsatt koda sidan. Jag har börjat skriva på våran sida dedikerad till vindkraft och haft strul med mitt github konto.
