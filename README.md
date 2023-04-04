@@ -17,4 +17,5 @@ Idag har vi börjat koda sidan. Adam har fixat en navbar och jag och Lucas har h
 Idag har vi fortsatt koda sidan. Jag har börjat skriva på våran sida dedikerad till vindkraft och haft strul med mitt github konto.
 
 ## Vecka 14
-Vi har delat upp sidan i 3 delar varav alla tar varsinn. Jag har vindkraft, lucas solkraft och adam tar introduktionssidan. Jag har börjat lägga in text i min del av sidan.
+Vi har delat upp sidan i 3 delar varav alla tar varsinn. Jag har vindkraft, lucas solkraft och adam tar introduktionssidan. Jag har börjat lägga in text i min del av sidan. 
+Idag har jag gjort läxförhör och sedan fortsatt koda min sida om vindkraft. Jag har lagt in en bild, lagt in mer text och flyttat runt texten och stylat sidan.
