@@ -19,3 +19,22 @@ Idag har vi fortsatt koda sidan. Jag har börjat skriva på våran sida dedikera
 ## Vecka 14
 Vi har delat upp sidan i 3 delar varav alla tar varsinn. Jag har vindkraft, lucas solkraft och adam tar introduktionssidan. Jag har börjat lägga in text i min del av sidan. 
 Idag har jag gjort läxförhör och sedan fortsatt koda min sida om vindkraft. Jag har lagt in en bild, lagt in mer text och flyttat runt texten och stylat sidan.
+
+## Vecka 16
+Jag har fortsatt försöka styla sidan som jag vill ha den men det gick inte som jag ville. Mitt mål var att få en ruta i mitten av bilden med text men det blir inte snyggt.
+
+## Vecka 17
+Jag har fortsatt med samma sak som förra veckan. Det vill inte lösa sig...
+
+## Vecka 18
+Vi har testat sidan som efter alla olika tester man skulle göra. Sedan fortsatte jag att fylla på min sida men material och styling. 
+
+## Vecka 19
+Jag har gjort slutliga justeringar på min sida och fått problem med bakgrundsbilden. Först behövde jag byta pga att den inte passade, sedan kom den inte upp ordentligt.
+
+## Vecka 20
+Fortsatt med att försöka lösa problemet med bakgrundsbilden och trodde att jag löste det. Visade sig nästa vecka att jag inte gjorde det. Gjorde även en fin tier list på grönsaker. 
+
+## Vecka 21 
+Prov och Presentation. Problemet med bakgrundsbilden visade sig tydligt. 
+
